@@ -17,6 +17,6 @@ six==1.10.0
 snowballstemmer==1.2.1
 Sphinx==1.4.9
 sphinx-rtd-theme==0.1.9
-tox==2.5.0
+tox==3.20.0
 versioneer==0.17
 virtualenv==15.1.0
