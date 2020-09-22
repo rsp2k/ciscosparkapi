@@ -15,7 +15,7 @@ requests==2.12.1
 requests-toolbelt==0.7.0
 six==1.10.0
 snowballstemmer==1.2.1
-Sphinx==1.4.9
+Sphinx==3.2.1
 sphinx-rtd-theme==0.1.9
 tox==2.5.0
 versioneer==0.17
