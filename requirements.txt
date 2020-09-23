@@ -2,7 +2,7 @@ alabaster==0.7.9
 Babel==2.3.4
 -e git+https://github.com/CiscoDevNet/ciscosparkapi.git@c76abbd3826fbf36134d331e430e0ae28399ea91#egg=ciscosparkapi
 docutils==0.12
-future==0.16.0
+future==0.18.2
 imagesize==0.7.1
 Jinja2==2.8
 MarkupSafe==0.23
